@@ -1,0 +1,35 @@
+body,
+html {
+	margin: 0 auto;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif !important;
+	font-size: 16px;
+	color: #555;
+}
+
+html,
+button,
+input,
+select,
+textarea,
+div.pure-g [class *="pure-u"] {
+	font-family: 'Open Sans', sans-serif !important;
+	font-weight: 300;
+	letter-spacing: 1px;
+}
+
+.content-wrapper {
+	margin: auto;
+	padding: 0.5em;
+	max-width: 1400px;
+}
+
+.ssidAP {
+	padding: 1em;
+	transition: all 0.3s 0s;
+}
+
+.ssidAP:hover {
+	cursor: pointer;
+	background: #E6F0FF;
+}

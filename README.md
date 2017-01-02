@@ -1,5 +1,6 @@
 # photon-wifi-setup
-Simple NodeJS/AngularJS for fast and easy Wifi setup of Particle Photon (https://docs.particle.io/reference/firmware/photon/).
+
+Simple NodeJS/AngularJS for fast and easy Wifi setup of Particle Photon (https://www.particle.io/products/hardware/photon-wifi-dev-kit). This app is very useful if you need to quickly change the Wifi credentials of your Photon without having to e.g. re-flash it.
 
 ## Installation
 
